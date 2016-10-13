@@ -1,4 +1,4 @@
 RadixPro
 ========
 
-We made WordPress and Html Themes for you and your Business. Our all WordPress themes functionality is very easy to use and 100% functional.
+RadixPro is a Simple and clean WordPress Free Theme. Build with Bootstrap, Redux Framework, HTML5, CSS3 and JS. Create and Maintained by <a href="http://mhrubel.com">Manhmudul Hasan Rubel</a>
